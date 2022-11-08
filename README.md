@@ -1,2 +1,2 @@
 # my-personal-page
-My personal page (CURRENTLY UNDER DEVELOPMENT)
+Implementation of my personal web page (with Yandex Metrika support)
